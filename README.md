@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kosort
-- 👀 I’m interested in godot 4.x indie GameDev
+- 👀 I’m interested in game engine dev and game dev with my own engine
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on (currently private)
 - 📫 How to reach me (currently closed)
