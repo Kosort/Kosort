@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on (currently private)
 - 📫 How to reach me (currently closed)
-- 😄 Pronouns: prefer he/him, but use whatever
-- ⚡ Fun fact: aseprite is decompiled and you can get the code for free to run it
+- 😄 Pronouns: prefer she/her, but use whatever
+- ⚡ Fun fact: use -O2 in clang++/g++ to get faster compile times!
 
 <!---
 Kosort/Kosort is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
